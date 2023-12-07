@@ -27,6 +27,16 @@
 .App-link {
   color: #61dafb;
 }
+ol.no-numbers {
+  list-style-type: none;
+}
+.focus-visible{
+  border: 2px dashed crimson;
+  border-radius: 3px;
+  outline: none;
+}
+
+
 
 @keyframes App-logo-spin {
   from {
